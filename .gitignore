@@ -43,3 +43,43 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# -----------------------------
+# Secrets / API keys (added to ignore all private configuration files)
+# Firebase and Google service config files
+/android/app/google-services.json
+/ios/GoogleService-Info.plist
+/lib/firebase/firebase_options.dart
+/firebase.json
+
+# Environment files
+/.env
+.env
+.env.*
+*.env
+
+# Common credential files
+serviceAccount*.json
+credentials.json
+google-credentials.json
+key.properties
+key.properties.local
+
+# Key/certificate files
+*.p12
+*.pem
+*.key
+*.jks
+*.keystore
+
+# Generic API key patterns
+*api*key*
+*API*KEY*
+*API_KEY*
+apikey*
+
+# Don't accidentally commit Flutter build artifacts or tooling caches
+.dart_tool/
+build/
+
+# End secrets
