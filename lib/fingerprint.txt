@@ -1,0 +1,9 @@
+Google Maps API Key: AIzaSyCGGUfg_VobsXaFsBTIoSfHIS_hEalK7BE
+Package name: com.artersoft.arac_filo
+
+Android Debug Certificate:
+Alias: AndroidDebugKey        
+MD5: 98:CD:0F:4E:AE:DB:1B:64:05:16:1F:4D:93:F6:C3:18        
+SHA1: A4:86:20:B0:41:6C:85:82:B1:EF:0E:46:5D:03:21:3D:87:81:28:CF
+SHA-256: CC:34:9B:5F:04:A1:F0:08:60:A2:AC:8B:8A:85:D7:C6:05:D6:39:91:BB:B3:70:08:5C:E2:8E:6D:C7:8D:D6:D0
+Valid until: 8 Eylül 2055 Çarşamba
